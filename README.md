@@ -3,4 +3,4 @@ Route finding program in Google map where I've implemented the following algorit
 1. Dijkstra Search
 1. A* Search
 
-## The skeleton code as well as some starter code had been provided by UC San Diego.
+ __The skeleton code as well as some starter code had been provided by UC San Diego.__
