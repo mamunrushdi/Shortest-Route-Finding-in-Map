@@ -3,4 +3,4 @@ Route finding program in Google map where I've implemented the following algorit
 1. Dijkstra Search
 1. A* Search
 
-## The skeleton to use Unfolding in Eclipse as well as some starter code had been provided by UC San Diego.
+## The skeleton code as well as some starter code had been provided by UC San Diego.
