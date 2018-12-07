@@ -1,0 +1,41 @@
+This is description about MapGraph class description.
+
+Class: MapGraph
+
+Modifications made to MapGraph: @numVertices and @numEdges variable store 
+								the number of vertices and edges in the graph.
+								
+								Relationship between Verticies through edges has been represented by
+								List data structure.
+								Here List data structure has been used as the roadmap graph would be sparse graph.
+								
+								@printVertices(), @printGraph and @edgeDetails method has been added for debugging purpose.
+
+Class name: MapVertex
+
+Purpose and description of class: This class has been created to represent the each Vertex of the graph.
+								  Vertex is created with a graph location object which is a GeographicPoint object.
+								  Each MapVertex object also contain a list of edges where the edge include the 
+								  destination Vertex.
+
+Class name: MapEdge
+
+Purpose and description of class: MapEdge class has been created to represent the edge of the graph.
+								 Each object of this class contains the following information:
+								 
+								 *Destination of the edge (road)
+								 *name of the road
+								 *Type of the road
+								 *Length of the road
+								 
+								 Setter and getter method for each attribute has been added with a toString method
+								 to print the an edge.
+
+Overall Design Justification: To implement the MapGraph, two classes 1)MapVertex and 2)MapEdge has been created
+							  so that information could be represented separately and modifying them would be easy.
+							  MapVertex contain the the edges or the connecting the road
+						      where the edges only contain the destination information and attributes of the road.
+							  Thus it would be easy to add a new edge(road) to a added vertex(location).
+							
+							
+		
