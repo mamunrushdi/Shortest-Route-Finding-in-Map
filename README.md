@@ -18,7 +18,7 @@ __To find a shortest route in Google map I've implemented the following algorith
  #### Work example:
  1. Loading local (Near Saint Petersruurg Polytechnical university) intersections in the map: ![](/img/Intersections.png)
  
- 1. Rout between two location: ![](/img/route.png)
+ 1. Route between two location: ![](/img/route.png)
  
  1. Breadth First Search (BFS) Result for the above mentioned route:
     Total nodes visit to find the shortest rout: ![](/img/bfs_route_number.png)
