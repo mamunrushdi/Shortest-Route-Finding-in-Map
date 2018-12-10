@@ -21,18 +21,18 @@ __To find a shortest route in Google map I've implemented the following algorith
  1. Rout between two location: ![](/img/route.png)
  
  1. Breadth First Search (BFS) Result for the above mentioned route:
-   1. Total nodes visit to find the shortest rout: ![](/img/bfs_route_number.png)
+    Total nodes visit to find the shortest rout: ![](/img/bfs_route_number.png)
    
-   1. BFS search visiualization: ![](/img/bfs_visualization.png)
+    BFS search visiualization: ![](/img/bfs_visualization.png)
    
  1. Dijkstra Result for the above mentioned route:
-   1. Total nodes visit to find the shortest rout: ![](/img/dijkstra _route_number.png)
+   Total nodes visit to find the shortest rout: ![](/img/dijkstra _route_number.png)
    
-   1. Dijkstra visiualization: ![](/img/dijkstra_visualization.png)
+   Dijkstra visiualization: ![](/img/dijkstra_visualization.png)
    
  1. A* Search (BFS) Result for the above mentioned route:
-   1. Total nodes visit to find the shortest rout: ![](/img/astart_route_number.png)
+   Total nodes visit to find the shortest rout: ![](/img/astart_route_number.png)
    
-   1. A* search visiualization: ![](/img/astarvisualization.png)
+   A* search visiualization: ![](/img/astarvisualization.png)
   
 ## [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/2.3.%20Advanced%20Data%20Structures%20in%20Java.pdf)
