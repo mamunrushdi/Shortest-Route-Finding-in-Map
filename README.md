@@ -10,7 +10,7 @@ This program was written as an assignment of the Advanced Data Structures in Jav
 1. Finding shortest paths in weighted graphs
 1. Route planning and NP-hard graph problems
 
-__To find a shortest route in Google map where I've implemented the following algorithms:__
+__To find a shortest route in Google map I've implemented the following algorithms:__
 1. Breadth First Search
 1. Dijkstra Search
 1. A* Search
