@@ -2,7 +2,7 @@
 This program was written as an assignment of the Advanced Data Structures in Java course offered by __UC San Diego through Coursera as the third course of 5 parts courses of _Object Oriented Java Programming: Data Structures and Beyond Specialization___ where the skeleton as well as some starter code had been provided.
 
 ## I've learnt from this course as follows:
-1. Graph abstract data type (ADT)
+1. Graph abstract data type (ADT).
 1. Interpret graph structure and properties from different graph representations.
 1. Write classes in Java to implement graphs
 1. Create graphs in Java using an adjacency matrix representation and an adjacency list representation
